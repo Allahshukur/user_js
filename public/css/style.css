@@ -1,0 +1,31 @@
+.image-box {
+    width: 245px !important;
+    height: 200px !important;
+}
+
+.card-img-top {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.card-height {
+    height: 380px !important;
+}
+
+.card-height:hover {
+    height: 400px !important;
+    cursor: pointer;
+}
+
+.card-title {
+    font-size: 20px !important;
+    font-family:"Times New Roman", Serif !important;
+    font-weight: bold;
+}
+
+.navBody {
+    margin-bottom: 10px;
+}
+.cursorPoint {
+    cursor: pointer;
+}
